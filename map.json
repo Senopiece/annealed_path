@@ -1,0 +1,74 @@
+[
+    {
+        "type": "circle",
+        "radius": 100,
+        "permeability": 0.1,
+        "center": {
+            "x": 300,
+            "y": 300
+        }
+    },
+    {
+        "type": "circle",
+        "radius": 100,
+        "permeability": 0.1,
+        "center": {
+            "x": 0,
+            "y": 200
+        }
+    },
+    {
+        "type": "circle",
+        "radius": 110,
+        "permeability": 0.1,
+        "center": {
+            "x": 400,
+            "y": 0
+        }
+    },
+    {
+        "type": "circle",
+        "radius": 80,
+        "permeability": 4,
+        "center": {
+            "x": 400,
+            "y": 500
+        }
+    },
+    {
+        "type": "circle",
+        "radius": 50,
+        "permeability": -0.5,
+        "center": {
+            "x": 150,
+            "y": 250
+        }
+    },
+    {
+        "type": "circle",
+        "radius": 50,
+        "permeability": -2,
+        "center": {
+            "x": 280,
+            "y": 136
+        }
+    },
+    {
+        "type": "circle",
+        "radius": 40,
+        "permeability": 0.1,
+        "center": {
+            "x": 90,
+            "y": 80
+        }
+    },
+    {
+        "type": "circle",
+        "radius": 70,
+        "permeability": 0.1,
+        "center": {
+            "x": 200,
+            "y": 30
+        }
+    }
+]
